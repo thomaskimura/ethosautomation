@@ -1,0 +1,22 @@
+
+
+/*
+ * hk-grotesk
+================================================================================ */
+@font-face {
+    font-family: "hk-grotesk-regular";
+    src: url("../fonts/hk-grotesk/HKGrotesk-Regular.otf") format("opentype"), url("../fonts/hk-grotesk/HKGrotesk-Regular.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/*
+ * metropolis
+================================================================================ */
+@font-face {
+    font-family: "metropolis-bold";
+    src: url("../fonts/metropolis/Metropolis-Bold.otf") format("opentype"), url("../fonts/metropolis/Metropolis-Bold.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
