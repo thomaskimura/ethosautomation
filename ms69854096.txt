@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ethosautomation.com",
+  "Id": "ecd5d986-10c3-4391-b1a4-79bddd2c196d"
+}
